@@ -8,7 +8,7 @@ This project automates the evaluation of handwritten responses by integrating HT
 
 Below is the architecture diagram illustrating the workflow of the system:
 
-![Architecture Diagram](<image-url-or-path>)
+![Architecture Diagram](<New folder/project_docs/Architecture Diagram.png>)
 
 ---
 
