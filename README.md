@@ -4,6 +4,13 @@
 This project automates the evaluation of handwritten responses by integrating HTR (Handwritten Text Recognition) at page level and Retrieval-Augmented Generation (RAG) technologies. It includes advanced text recognition and semantic evaluation for educational assessments.
 
 ---
+## Architecture Diagram
+
+Below is the architecture diagram illustrating the workflow of the system:
+
+![Architecture Diagram](<image-url-or-path>)
+
+---
 
 ## Steps to Run the Program
 
@@ -39,7 +46,6 @@ This project automates the evaluation of handwritten responses by integrating HT
     - **Term Significance (TS)**: TS(W) = Number of times word W appears in Answer A / Total number of words in document D.
     - **Global Relevance (GR)**: GR(W) = Number of answers containing word W / Total number of answers.
 
----
 ---
 
 ## Notes
