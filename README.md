@@ -1,7 +1,7 @@
 # Smart-Evaluation-of-Handwritten-Responses-with-RAG
 
 ## Introduction
-This project automates the evaluation of handwritten responses by integrating HTR (Handwritten Text Recognition) at page level and Retrieval-Augmented Generation (RAG) technologies. It includes advanced text recognition and semantic evaluation for educational assessments.
+This project automates the evaluation of handwritten responses by integrating HTR (Handwritten Text Recognition) at the page level and Retrieval-Augmented Generation (RAG) technologies. It includes advanced text recognition and semantic evaluation for educational assessments. The system generates the correct answer from a relevant PDF using RAG, which is then used to compare the converted digital text from the handwritten image for accurate marking.
 
 ---
 ## Architecture Diagram
